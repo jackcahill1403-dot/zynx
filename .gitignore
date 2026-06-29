@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+venv/
+.venv/
+node_modules/
+.obsidian/
+.DS_Store
+zynx plans.md
